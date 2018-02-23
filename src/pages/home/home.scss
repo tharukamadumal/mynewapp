@@ -1,0 +1,25 @@
+page-home {
+    .artistName{
+        padding-top: 10px;
+    }
+
+    .toolbar-background-md {
+        background: #00bcd4 !important;
+    }
+
+    .item-md{
+        background: #cad6d8 !important;
+        margin-top: 4px !important;
+        border-radius:16px; 
+    }
+
+    .fixed-content{
+        background-color: white;   
+    }
+
+    .bar-button-default-md, .bar-button-clear-md-default, .bar-button-md-default {
+        color: #ffffff !important;
+        background-color: transparent;
+        font-size: 15px !important;
+    }
+}
